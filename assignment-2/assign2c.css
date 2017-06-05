@@ -1,0 +1,25 @@
+body{
+	background-color: #d5ded9;
+}
+div.main{
+	background-color: #ffffff;
+	padding:30px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top: 100px;
+	border: 3px solid black;
+	width:600px;
+}
+
+div.bits_logo{
+	padding: 0px;
+	border:0px;
+	position: absolute;
+}
+
+div.info{
+	text-align: right;
+	position: relative;
+	margin:0px 50px 0px 0px;
+}
+
