@@ -1,0 +1,91 @@
+*{
+ font-size: 25px;
+  
+  padding:0px;
+  margin:0px;
+}
+
+.navigation{
+  background:blue;
+  padding-top:5px;
+  padding-left:50px;
+  padding-bottom:50px;
+}
+.fblogo{
+  width:40px;
+  height:40px;
+  position:absolute
+
+}
+.searchtext{
+  height:40px;
+  position:absolute;
+  margin-left:55px;
+  border:1px solid black;
+  
+}
+.searchlogo{
+  width:40px;
+  background-color:white;
+  position:absolute;
+  margin-left:370px;
+  border:1px solid black;
+}
+  .home{
+    margin-top:5px;
+    margin-right:auto;
+    margin-left:600px;
+    padding-left:5px;
+    width:175px;
+    position:absolute;
+  } 
+.home1{
+  padding-right:5px;
+  padding-left:5px;
+}
+
+a.home1:link{
+  color:white;
+  text-decoration:none;
+}
+
+a.home1:visited{
+  color:white;
+  text-decoration:none;
+}
+
+a.home1:hover{
+  color:white;
+  text-decoration:none;
+  background-color:#3322ff;
+}
+  
+.frd{
+  width:30px;
+  height:30px;
+  margin-left:848px;
+  position:absolute;
+  margin-top:3px;
+}
+.noti{
+  width:55px;
+  height:32px;
+  margin-left:900px;
+  margin-top:0px;
+  position:absolute;
+}
+
+.msg{
+  width:26px;
+  height:29px;
+  margin-left:885px;
+  position:absolute;
+  margin-top:4px;
+}
+
+  
+.dropd{
+  height:25px;
+  width:40px;
+  margin-left:985px;
+ }
